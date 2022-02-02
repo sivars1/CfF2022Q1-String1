@@ -3,6 +3,9 @@
 #include<vector>
 #include<array>
 
+// my own string-1.cc
+// I didit!
+
 int main () {
 
     // Define and Initialize some Strings
